@@ -1,4 +1,4 @@
-# HTML & CSS Practice Project
+ # HTML & CSS Practice Project
 
 ## About
 
@@ -24,3 +24,4 @@ This is a beginner project to practice basic HTML and CSS.
 ## Output
 
 A simple styled webpage with headings, paragraphs, and lists.
+Deployed Link-https://task3shaktii.netlify.app/
