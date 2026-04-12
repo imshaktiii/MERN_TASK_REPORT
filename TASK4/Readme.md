@@ -14,7 +14,7 @@ This is a beginner project to practice basic HTML and CSS.
 * How to connect CSS with HTML
 * Using class and id
 * Basic CSS selectors
-* Styling text, background, and lists
+* Styling text, background, and lists.
 
 ## How to Run
 
