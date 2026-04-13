@@ -1,0 +1,90 @@
+body {
+    margin: 0;
+    font-family: Arial;
+}
+
+nav {
+    background-color: #f5f5f5;
+    padding: 15px;
+}
+
+.logo {
+    display: inline-block;
+    width: 20%;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.menu {
+    display: inline-block;
+    width: 55%;
+    text-align: center;
+}
+
+.menu a {
+    margin: 0 15px;
+    text-decoration: none;
+    color: gray;
+}
+
+.menu a:hover {
+    color: black;
+}
+
+.user {
+    display: inline-block;
+    width: 20%;
+    text-align: right;
+}
+
+.user button {
+    padding: 8px 15px;
+    background-color: #d6eaf8;
+    border: none;
+    border-radius: 10px;
+}
+
+.hero {
+    height: 100vh;
+    padding: 40px;
+}
+
+.left {
+    display: inline-block;
+    width: 45%;
+    vertical-align: middle;
+    padding: 20px;
+}
+
+.left h1 {
+    font-size: 40px;
+    color: #333;
+}
+
+.left span {
+    color: #3498db;
+}
+
+.left p {
+    color: gray;
+    line-height: 1.5;
+}
+
+.left button {
+    margin-top: 20px;
+    padding: 12px 20px;
+    background-color: #3498db;
+    color: white;
+    border: none;
+    border-radius: 8px;
+}
+
+.right {
+    display: inline-block;
+    width: 45%;
+    vertical-align: middle;
+}
+
+.right img {
+    width: 100%;
+}
